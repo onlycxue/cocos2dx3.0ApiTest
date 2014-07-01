@@ -1,0 +1,8 @@
+info face="Arial" size=32 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=10,1 outline=0
+common lineHeight=32 base=26 scaleW=256 scaleH=128 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="1_0.png"
+chars count=4
+char id=20048 x=54    y=0     width=42    height=44    xoffset=0     yoffset=0     xadvance=42    page=0  chnl=15
+char id=23456 x=0     y=0     width=44    height=45    xoffset=0     yoffset=0     xadvance=44    page=0  chnl=15
+char id=28040 x=106   y=0     width=44    height=43    xoffset=0     yoffset=0     xadvance=44    page=0  chnl=15
+char id=29289 x=160   y=0     width=44    height=41    xoffset=0     yoffset=0     xadvance=44    page=0  chnl=15
